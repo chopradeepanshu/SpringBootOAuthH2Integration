@@ -5,7 +5,7 @@ I have created an Application named: Deepak Mart having role for Buyer, Seller, 
 You can use gradle wrapper which is configured in the project.
 
 ```
-./gradlew clean build
+gradlew clean build
 ```
 
 ## Running the application
